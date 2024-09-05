@@ -1,0 +1,23 @@
+.customStyle {
+    box-shadow: none !important;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: rgba(139, 154, 46, 0.652);
+}
+
+.orange {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
+
+.small-icon {
+    font-size: 16px;
+}
